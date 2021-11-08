@@ -1,4 +1,4 @@
-# Overview
+# Monsters Rolodex Overview
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 React application using class components to filter a list of monsters' and return the results.
