@@ -8,7 +8,7 @@ React application using class components to filter a list of monsters' and retur
 https://vanessabau.github.io/monsters-rolodex-classes-version/
 
 ### Screenshot
-
+![alt text](https://raw.githubusercontent.com/vanessabau/monsters-rolodex-classes-version/master/Screen%20Shot%202021-11-08%20at%202.11.47%20PM.png)
 
 ### Shout Outs
 
